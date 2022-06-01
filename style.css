@@ -100,9 +100,3 @@ ul li a:hover {
     justify-content: center;
     padding: 150px;
 }
-
-button {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
